@@ -19,6 +19,6 @@ for (i in seq.int(1,max)){
   }
 }
 
-x = X[i+1];
+x = X[i+1]
 }
 
