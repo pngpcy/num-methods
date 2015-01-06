@@ -1,5 +1,5 @@
 function [x, nsteps] = muller (f, X1, X2, X3, nmax, tol)
-% This function uses false position method to find the root of an equation.
+% This function uses Muller method to find the root of an equation.
 % [x, n] = muller (@(x) x^2-3, -1, 1, 3, 10, 0.01)
 
 X = [X1 X2 X3];
