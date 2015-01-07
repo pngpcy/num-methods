@@ -12,6 +12,13 @@ There are 5 parts in this section. Each section has implemented code in Matlab a
 
 
 ## Inverse Matrix
+- resolve upper triangular matrix
+- resolve lower triangular matrix
+- Gauss Elimination method
+- LU Decomposition
+- Jacobi's Method
+- Gauss-Seidel Method
+- Sucessive Over-Relaxation (SOR) method
 
 ## Interpolation
 
