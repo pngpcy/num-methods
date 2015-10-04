@@ -1,7 +1,7 @@
 Numerical Methods 1
 ==========
 
-There are 5 parts in this section. Each section has implemented code in Matlab and R.
+There are 5 parts in this section. Each section has implemented code in Matlab.
 
 ## Root-finding
 - Bisection Method
